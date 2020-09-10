@@ -20,7 +20,7 @@
 2. Run the program!
     * `python miley.py`
 
-
-## Full Disclosure
+  
+### Full Disclosure
 * I'm not this clever. People have already built things like this. Actually, I've copied most of the model's source code from the source below. I've just changed the look, the feel, and the intents of this model. Full credit should be given to the data-flair.training org.
 * Sauce: https://data-flair.training/blogs/python-chatbot-project/
