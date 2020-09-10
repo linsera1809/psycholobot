@@ -1,6 +1,6 @@
 # psycholobot
-Miley: The Psychologist ChatBot. A deep learning project using seq 2 seq neural networks.
-Sauce: https://data-flair.training/blogs/python-chatbot-project/
+* Miley: The Psychologist ChatBot. A deep learning project using seq 2 seq neural networks.  
+* Sauce: https://data-flair.training/blogs/python-chatbot-project/  
 
 ## Setup
 1. Get your virtual-environment running:
