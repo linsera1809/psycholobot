@@ -10,7 +10,7 @@
     * `cd ./venv/Scripts`
     * `source activate`
 2. Download your depenedencies:
-    * pip install tensorflow, keras, pickle, nltk
+    * `pip install tensorflow, keras, pickle, nltk`
         * *NOTE: if tensorflow doesn't work, make sure you have python 64 bit installed.*
         * *NOTE NOTE: run `pip install pickle-mixin` if you have pickle probs. However, it looks like pickle is a default lib install on Python38 these days, so this may be overkill.*
 
