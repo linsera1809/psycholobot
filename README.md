@@ -16,4 +16,5 @@ Sauce: https://data-flair.training/blogs/python-chatbot-project/
 ## Run
 1. Train the model
     * `python train_chatbot.py`
+2. Run the program!
     * `python miley.py`
