@@ -1,5 +1,5 @@
 # psycholobot
-* **Miley: The Psychologist ChatBot** named after my cat, Miley...so you could say this is a *CATbot*. (I'll hold for laughter)     
+**Miley: The Psychologist ChatBot** named after my cat, Miley...so you could say this is a *CATbot*. (I'll hold for laughter)     
 * This is a deep learning project using seq2seq neural networks.  
 * Trained from a serialized pickle file after running the train_chatbot.py.
 
