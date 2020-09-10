@@ -1,5 +1,5 @@
 # psycholobot
-* Miley: The Psychologist ChatBot. A deep learning project using seq 2 seq neural networks.  
+* Miley: The Psychologist ChatBot named after my cat, Miley...so you could say this is a *CATbot*. A deep learning project using seq 2 seq neural networks.  
 * Sauce: https://data-flair.training/blogs/python-chatbot-project/  
 
 ## Setup
